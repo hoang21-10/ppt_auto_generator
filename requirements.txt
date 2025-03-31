@@ -1,0 +1,10 @@
+google-generativeai 
+python-pptx
+python-dotenv
+streamlit
+python-docx
+requests
+beautifulsoup4
+
+
+
