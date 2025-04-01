@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import requests
 from bs4 import BeautifulSoup
+import pyrebase4 as pyrebase
 from firebase_config import auth  # Import Firebase Auth
 
 # Load API Key từ .env
